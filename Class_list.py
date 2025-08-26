@@ -10,3 +10,4 @@ while True:
     classes.append(class_name)
 
 print(classes)
+#print all class names
